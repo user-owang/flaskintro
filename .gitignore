@@ -3,3 +3,5 @@ venv/
 calc/__pycache__/
 
 greet/__pycache__/
+
+calc/__pycache__/app.cpython-312.pyc
